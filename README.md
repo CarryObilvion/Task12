@@ -26,9 +26,12 @@
 
 Скриншот рабочего окна приложения:
 
-![11](https://user-images.githubusercontent.com/80450495/114280485-27222400-9a42-11eb-973b-bb75f2c64791.png)
+![12](https://user-images.githubusercontent.com/80450495/119056217-ffc05e80-b9d2-11eb-8eb9-1fed8bed3577.PNG)
 
 Отображение изображения
+
+![12 1](https://user-images.githubusercontent.com/80450495/119056238-06e76c80-b9d3-11eb-8bcf-30d69288189c.PNG)
+
 
 
 
