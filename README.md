@@ -30,5 +30,5 @@
 
 Отображение изображения
 
-![2154](https://user-images.githubusercontent.com/80450495/114280637-eaa2f800-9a42-11eb-904c-522ea1ea99e8.png)
+
 
