@@ -22,7 +22,7 @@
 
 Проект построен согласно диаграмме классов.
 
-![Task12](https://user-images.githubusercontent.com/80450495/114280582-9d268b00-9a42-11eb-96d6-25436754f1e6.png)
+![image](https://user-images.githubusercontent.com/80450495/119717314-d5592000-be6e-11eb-91a8-342429b2b7f1.png)
 
 Скриншот рабочего окна приложения:
 
